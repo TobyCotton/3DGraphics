@@ -1,0 +1,22 @@
+﻿  Camera.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Helper.cpp
+  ImageLoader.cpp
+  main.cpp
+  Mesh.cpp
+  Renderer.cpp
+E:\3d graphics\Framework - Jeep\ThreeGPStart\Renderer.cpp(258,49): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+E:\3d graphics\Framework - Jeep\ThreeGPStart\Renderer.cpp(297,46): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+E:\3d graphics\Framework - Jeep\ThreeGPStart\Renderer.cpp(301,22): warning C4018: '<': signed/unsigned mismatch
+E:\3d graphics\Framework - Jeep\ThreeGPStart\Renderer.cpp(422,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\3d graphics\Framework - Jeep\ThreeGPStart\Renderer.cpp(423,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\3d graphics\Framework - Jeep\ThreeGPStart\Renderer.cpp(513,47): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  Simulation.cpp
+  Generating Code...
+  glew.c
+  ThreeGPStart.vcxproj -> E:\3d graphics\Framework - Jeep\x64\Debug\ThreeGPStart.exe
