@@ -17,7 +17,7 @@ void main(void)
 	float specularStrength = 0.5;
 	vec3 viewDirection = normalize(varying_CameraPostion-FragmentPostition);//calculates the normal from the camera and fragment position
 	vec3 normals = normalize(varying_Normals);//renormalizing normals
-	vec3 SpotlightPosition = glm::vec3(2000,300 , 1000);
+	vec3 SpotlightPosition = vec3(2000,300 , 1000);
 	vec3 SpotlightDirection = normalize(SpotlightPosition - FragmentPostition);
 	vec3 lightDirection = vec3(0.45,0.45,1);//the directional lights direction
 
